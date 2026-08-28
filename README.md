@@ -3,6 +3,8 @@
 ## Description
 This repository will allow you to build your own controller for In Falsus, with no led and just a few parts to keep the budget tight
 
+<img src="images/FALSUS_2026-Aug-28_12-54-03PM-000_CustomizedView16245512480.png">
+
 ## Build guide
 ### Materials JLC PCB/3DP/CNC
 * 6x Buttons : any resin or nylon materials will do, I recommand 8001 transparent for smooth or 3201PA-F Nylon for dark and gritty feeling
