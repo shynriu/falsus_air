@@ -8,9 +8,9 @@ This repository will allow you to build your own controller for In Falsus, with 
 ## Build guide
 ### Materials JLC PCB/3DP/CNC
 * 6x Buttons : any resin or nylon materials will do, I recommand 8001 transparent for smooth or 3201PA-F Nylon for dark and gritty feeling
-* 1x Top plate : 8001 resin transparent
+* 1x Top plate : 8001 resin transparent (may warp)
 * 5x (moq) PCB : thickness 1,6mm, color of your choice
-* 1x Case : either CNC milled or 3D printed. If you choose 3D printed go for nylon since putting threaded inserts in resin do not work well. For the CNC case you need to add the pdf that indicates the tapped holes
+* 1x Case : either CNC milled or 3D printed. If you choose 3D printed go for nylon (may warp) since putting threaded inserts in resin do not work well. For the CNC case you need to add the pdf that indicates the tapped holes. Standard FDM works too.
 
 
 ### Materials Aliexpress
